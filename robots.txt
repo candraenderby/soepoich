@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ochahaicu.amitlan.blog/sitemap.xml
